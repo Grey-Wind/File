@@ -4,7 +4,7 @@
   <description asmv2:iconFile="icon.ico" asmv2:publisher="Sunrise Studio" asmv2:product="Better Real-ESRGAN" asmv2:supportUrl="https://github.com/Grey-Wind/Better-Real-ESRGAN" co.v1:errorReportUrl="https://github.com/Grey-Wind/Better-Real-ESRGAN/issues" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="Better Real-ESRGAN" version="9.1.0.0" publicKeyToken="8D7E1223C0DE06E5" language="neutral" processorArchitecture="msil" />
+    <assemblyIdentity name="Better Real-ESRGAN" version="9.2.1.0" publicKeyToken="8D7E1223C0DE06E5" language="neutral" processorArchitecture="msil" />
     <commandLine file="Better Real-ESRGAN.exe" parameters="" />
   </entryPoint>
   <co.v1:useManifestForTrust xmlns="urn:schemas-microsoft-com:asm.v1" />
@@ -44,14 +44,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Better Real-ESRGAN.exe" size="341472">
-      <assemblyIdentity name="Better Real-ESRGAN" version="9.1.0.0" publicKeyToken="8D7E1223C0DE06E5" language="neutral" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Better Real-ESRGAN.exe" size="338912">
+      <assemblyIdentity name="Better Real-ESRGAN" version="9.2.1.0" publicKeyToken="8D7E1223C0DE06E5" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>uInNCfTvdxoKCo+KtSMQ2+EE0HnN7tUxzj2EVnIrgrI=</dsig:DigestValue>
+        <dsig:DigestValue>3t0/LTjx1zricbZBfFB8nEOn39srhWLxYV+c031667k=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
